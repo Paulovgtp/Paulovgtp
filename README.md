@@ -1,7 +1,8 @@
 ## Olá, meu nome é Paulo 👋
 
-### Sobre mim
 ![alt text](https://github.com/urielcaire/learnmd/blob/master/imgs/solaire.gif "Praise the sun!")
+
+### Sobre mim
 <div style="display: inline_block"  >
 <p> - 👨‍💻 CEO da Web Status Business Tecnology Soluctions. </p>
 <p> - 👨‍🎓 Estudante de TADS, atualmente estou cursando o 5° semestre. </p>
