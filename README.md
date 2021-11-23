@@ -1,7 +1,5 @@
 ## Olá, meu nome é Paulo 👋
 
-![alt text](https://github.com/urielcaire/learnmd/blob/master/imgs/solaire.gif "Praise the sun!")
-
 ### Sobre mim
 <div style="display: inline_block"  >
 <img align="right" width="250" height="250" style="border-radius:30px;" src="solaire.gif?raw=true" />
