@@ -4,11 +4,9 @@
 <div style="display: inline_block"  >
 ![alt text](https://github.com/urielcaire/learnmd/blob/master/imgs/solaire.gif "Praise the sun!")
 <div align="right" width="250" height="250">
-<p> - 👨‍💻 Engenheiro de Software Jr no Itaú Unibanco. </p>
-<p> - 👨‍🎓 Estudante de Ciência da computação, atualmente estou cursando o 6° semestre. </p>
-<p> - 🎯 Interesse: Java, Kotlin, Spring Boot, Micronaut, API , HTML, CSS, JavaScript, Angular, AWS e Docker . </p>
-<p> - 🦊 Quando me perguntaram o que eu queria ser ? há um tempo atrás a minha resposta foi "SER HOKAGE" e hoje eu sou um engenheiro de software, nada haver kkk. Sou fã do anime Naruto , eaê, bora assistir uns filler juntos ? </p>
-<p> - 🎮 Gosta de jogar Free fire? É só chamar, vamos subir de patente juntos ou não hehehe </p>
+<p> - 👨‍💻 CEO da Web Status Business Tecnology Soluctions. </p>
+<p> - 👨‍🎓 Estudante de TADS, atualmente estou cursando o 5° semestre. </p>
+<p> - 🎯 Interesse: Python, Flutter, Docker, API , HTML, CSS, JavaScript e AWS. </p>
 </div>
 </div>
 
