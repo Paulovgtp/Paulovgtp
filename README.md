@@ -2,7 +2,9 @@
 
 ### Sobre mim
 <div style="display: inline_block"  >
-<img align="right" width="250" height="250" style="border-radius:30px;" src="naruto.gif?raw=true" />
+
+![alt text](https://github.com/urielcaire/learnmd/blob/master/imgs/solaire.gif "Praise the sun!")
+ 
 <p> - 👨‍💻 Engenheiro de Software Jr no Itaú Unibanco. </p>
 <p> - 👨‍🎓 Estudante de Ciência da computação, atualmente estou cursando o 6° semestre. </p>
 <p> - 🎯 Interesse: Java, Kotlin, Spring Boot, Micronaut, API , HTML, CSS, JavaScript, Angular, AWS e Docker . </p>
