@@ -2,10 +2,10 @@
 
 ### Sobre mim
 <div style="display: inline_block"  >
-<img align="right" width="250" height="250" style="border-radius:30px;" src="solaire.gif?raw=true" />
-<p> - 👨‍💻 CEO da Web Status Business Tecnology Soluctions. </p>
-<p> - 👨‍🎓 Estudante de TADS, atualmente estou cursando o 5° semestre. </p>
-<p> - 🎯 Interesse: Python, Flutter, Docker, API , HTML, CSS, JavaScript e AWS. </p>
+    <img align="right" width="250" height="250" style="border-radius:30px;" src="solaire.gif?raw=true" />
+    <p> - 👨‍💻 CEO da Web Status Business Tecnology Soluctions. </p>
+    <p> - 👨‍🎓 Estudante de TADS, atualmente estou cursando o 5° semestre. </p>
+    <p> - 🎯 Interesse: Python, Flutter, Docker, API , HTML, CSS, JavaScript e AWS. </p>
 </div>
 
 ## Skills
@@ -35,11 +35,7 @@
     </a>
 </p>
 
-<p> 
-
- ## Total de visitas no meu perfil <br>
- <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/teteusAraujo/count.svg" />
- </p>
-    
+## Total de visitas no meu perfil <br>
+<p align="center"> 
+  <img alingn="center" src="https://profile-counter.glitch.me/teteusAraujo/count.svg" />
 </p>
