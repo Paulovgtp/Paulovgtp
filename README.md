@@ -35,7 +35,7 @@
     </a>
 </p>
 
-<p align="center"> 
+<p> 
 
  ## Total de visitas no meu perfil <br>
  <p align="center"> 
