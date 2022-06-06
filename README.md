@@ -3,9 +3,9 @@
 ### Sobre mim
 <div style="display: inline_block"  >
     <img align="right" width="250" height="250" src="solaire.gif?raw=true" />
-    <p> - 👨‍💻 CEO da WSB Tecnology Soluctions. </p>
+    <p> - 👨‍💻 CEO/Founder da WSB Soluctions Corporation. </p>
     <p> - 👨‍🎓 Estudante de TADS, atualmente cursando o 6° semestre. </p>
-    <p> - 🎯 Interesse: Python, Flutter, Docker, API , HTML, CSS, JavaScript e AWS. </p>
+    <p> - 🎯 Skills: Python, Flutter, API, HTML, CSS e JavaScript. </p>
 </div>
 
 ##
