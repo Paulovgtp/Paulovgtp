@@ -1,7 +1,7 @@
 ## Olá, Paulo Pires aqui 👋
 
 <div style="display: inline_block"  >
-    <img align="right" width="250" height="250" src="https://siegeofmytra.com/wp-content/uploads/Infanteria_Pesada460x460.gif" />
+    <img align="right" width="250" height="250" src="https://giffiles.alphacoders.com/146/14621.gif" />
     <p> - CEO/Founder da WSB Soluctions. </p>
     <p> - Apenas um Analista de Sistemas. </p>
     <p> - Skills: Gestão e Empreendedorismo. </p>
