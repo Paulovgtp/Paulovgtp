@@ -1,6 +1,5 @@
 ## Olá, Paulo Pires aqui 👋
 
-### Sobre mim
 <div style="display: inline_block"  >
     <img align="right" width="250" height="250" src="solaire.gif?raw=true" />
     <p> - CEO/Founder da WSB Soluctions. </p>
